@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on  Programmer Foundation
+- 🔭 Student at Silicon Institute of Technology
 - 🌱 I’m currently learning Python, Java, C, HTML, CSS, JavaScript
 - 👯 I’m looking to collaborate on Stack Overflow
 - 🤔 I’m looking for help with Open source projects
