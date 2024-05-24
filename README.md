@@ -1,4 +1,4 @@
-![My Profile Header](https://github.com/somdev-hub/github-content/blob/master/github%20header.png)
+![My Profile Header](https://github.com/somdev-hub/github-content/blob/master/github%20header%202.png)
 
 
 ### Hi there 👋
