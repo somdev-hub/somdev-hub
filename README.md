@@ -91,7 +91,7 @@ Currently pursuing my dreams in Computer Science, I am a passionate programmer a
     - React PDF for generating invoices and receipts.
 - [**Weather data and moon phase pridiction using machine learning**](https://github.com/somdev-hub/weather-report)
   - _Features_
-    - Utilized [Predictive analysis of Temperature (IndianWeather)](https://www.kaggle.com/code/alishmabhardwaj/predictive-analysis-of-temperature-indianweather) dataset from Kaggle and extracted features like coordinates, temperature, humidity, wind speed, moon rise, moon set, sun rise, sun set timing and moon illumination to build multiple models.
+    - Utilized [Indian Weather Repository ( Daily Updating )](https://www.kaggle.com/datasets/nelgiriyewithana/indian-weather-repository-daily-snapshot) dataset from Kaggle and extracted features like coordinates, temperature, humidity, wind speed, moon rise, moon set, sun rise, sun set timing and moon illumination to build multiple models.
     - Built a random forest and SVM model to predict the temperature, humidity, pressure, and moon phases of any location.
     - Used python libraries like pandas, numpy, matplotlib, seaborn, and scikit-learn for data preprocessing, visualization, and model building.
     - Used FastAPI for building the APIs.
