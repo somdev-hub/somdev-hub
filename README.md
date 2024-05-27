@@ -4,9 +4,9 @@
 
 ## Know me better 🚀
 
-```
-Currently pursuing my dreams in Computer Science, I am a passionate programmer and a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. I love solving problems and taking up new challenges.
-```
+<blockquote>
+Currently pursuing my dreams in Computer Science, I am a passionate programmer and a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. I love solving problems and taking up new challenges. My interest lies in the world of web, mobile development and machine learning.
+</blockquote>
 
 ## Current Status 📊
 
@@ -31,11 +31,9 @@ Currently pursuing my dreams in Computer Science, I am a passionate programmer a
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat" />
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat" />
-<img alt="React Native" src="
-https://img.shields.io/badge/React_Native-20232A?style=flat" />
+<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat" />
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat" />
-<img alt="MySQL" src="
-https://img.shields.io/badge/MySQL-00000F?style=flat" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
     <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
