@@ -17,7 +17,8 @@ Currently pursuing my dreams in Computer Science, I am a passionate programmer a
 - 😄 Pronouns: He/his
 
 ## My Skills 🚀
-
+<div style="display:flex;flex-wrap:wrap;">
+  
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=flat" />
@@ -41,6 +42,8 @@ https://img.shields.io/badge/MySQL-00000F?style=flat" />
     <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
     <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
     <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
+</div>
+
 
 ## My Stats 📈
 
