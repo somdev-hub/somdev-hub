@@ -104,6 +104,15 @@ Currently pursuing my dreams in Computer Science, I am a passionate programmer a
 ## My Wakatime Stats 📊
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript        15 hrs 48 mins  ████████████████▒░░░░░░░░   65.78 %
+Java              3 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
+TypeScript        2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Bash              44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Java Properties   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
