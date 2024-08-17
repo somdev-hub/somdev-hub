@@ -97,10 +97,6 @@ Currently pursuing my dreams in Computer Science, I am a passionate programmer a
     - Used FastAPI for building the APIs.
     - Built a responsive frontend web app using React with tailwind CSS, along with MUI.
 
-## My Top Languages 📊
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somdev-hub&layout=compact)](
-
 ## My Wakatime Stats 📊
 
 <!--START_SECTION:waka-->
