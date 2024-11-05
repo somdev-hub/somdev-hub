@@ -102,8 +102,8 @@ Currently pursuing my dreams in Computer Science, I am a passionate programmer a
 <!--START_SECTION:waka-->
 
 ```txt
-TeX          10 hrs 51 mins  ██████████████████░░░░░░░   71.78 %
-Python       4 hrs 8 mins    ███████░░░░░░░░░░░░░░░░░░   27.35 %
+TeX          11 hrs 14 mins  ██████████████████▓░░░░░░   74.57 %
+Python       3 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   24.56 %
 JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 BibTeX       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
