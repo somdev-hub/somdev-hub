@@ -102,7 +102,9 @@ Currently pursuing my dreams in Computer Science, I am a passionate programmer a
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TeX      47 mins         ███████████████░░░░░░░░░░   60.24 %
+JSON     21 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
+Python   10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
 ```
 
 <!--END_SECTION:waka-->
