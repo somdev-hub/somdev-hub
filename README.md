@@ -102,7 +102,8 @@ Currently pursuing my dreams in Computer Science, I am a passionate programmer a
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 20 mins    █████████████████████████   100.00 %
+Markdown   2 hrs 7 mins    ████████████████████████▒   97.97 %
+TeX        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
