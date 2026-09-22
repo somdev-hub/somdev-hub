@@ -102,7 +102,9 @@ Currently pursuing my dreams in Computer Science, I am a passionate programmer a
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   10 mins               █████████████████░░░░░░░░   68.07 %
+Markdown     3 mins                █████▓░░░░░░░░░░░░░░░░░░░   23.07 %
+Other        1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
 ```
 
 <!--END_SECTION:waka-->
