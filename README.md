@@ -102,11 +102,11 @@ Currently pursuing my dreams in Computer Science, I am a passionate programmer a
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        4 hrs 6 mins          █████████▒░░░░░░░░░░░░░░░   37.40 %
-Java              3 hrs 31 mins         ████████░░░░░░░░░░░░░░░░░   32.18 %
-Other             1 hr 10 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-Python            47 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-JSON              32 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+TypeScript        4 hrs 56 mins         ███████████▓░░░░░░░░░░░░░   46.12 %
+Java              2 hrs 29 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.33 %
+Other             1 hr 29 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
+Python            1 hr 3 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+CSS               14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
